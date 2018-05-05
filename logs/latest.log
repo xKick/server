@@ -1,0 +1,80 @@
+[20:35:39] [Server thread/INFO]: Starting minecraft server version 1.8
+[20:35:39] [Server thread/INFO]: Loading properties
+[20:35:39] [Server thread/INFO]: Default game type: SURVIVAL
+[20:35:39] [Server thread/INFO]: Generating keypair
+[20:35:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:35:39] [Server thread/INFO]: Preparing level "world"
+[20:35:39] [Server thread/INFO]: Preparing start region for level 0
+[20:35:40] [Server thread/INFO]: Done (1.083s)! For help, type "help" or "?"
+[20:35:45] [User Authenticator #1/INFO]: UUID of player Icheb is 40779d23-1494-4d5f-9034-c0341263b642
+[20:35:45] [Server thread/INFO]: Icheb[/127.0.0.1:53047] logged in with entity id 281 at (141.32325590599703, 72.0, 253.836322276775)
+[20:35:45] [Server thread/INFO]: Icheb joined the game
+[20:35:49] [User Authenticator #2/INFO]: UUID of player UnknownNelson is 299b202f-81c9-40a7-ba2e-b6cbbffd7487
+[20:35:49] [Server thread/INFO]: UnknownNelson[/162.198.200.215:56780] logged in with entity id 283 at (141.58776587561124, 72.0, 255.32600449731422)
+[20:35:49] [Server thread/INFO]: UnknownNelson joined the game
+[20:36:58] [Server thread/INFO]: UnknownNelson was shot by Skeleton
+[20:37:36] [Server thread/INFO]: [Icheb: Set the time to 0]
+[20:38:42] [Server thread/INFO]: Opped UnknownNelson
+[20:38:53] [Server thread/INFO]: Icheb fell out of the world
+[20:38:53] [Server thread/INFO]: [UnknownNelson: Killed Icheb]
+[20:39:50] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[20:40:25] [Server thread/INFO]: [UnknownNelson: Set own game mode to Spectator Mode]
+[20:40:32] [Server thread/INFO]: [UnknownNelson: Teleported UnknownNelson to Icheb]
+[20:40:53] [Server thread/INFO]: [UnknownNelson: Teleported UnknownNelson to Icheb]
+[20:42:00] [Server thread/INFO]: <Icheb> tp Icheb UnknownNelson
+[20:42:07] [Server thread/INFO]: [Icheb: Teleported Icheb to UnknownNelson]
+[20:42:12] [Server thread/INFO]: [UnknownNelson: Set own game mode to Survival Mode]
+[20:42:19] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[20:45:29] [Server thread/INFO]: UnknownNelson lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[20:45:29] [Server thread/INFO]: UnknownNelson left the game
+[20:45:39] [Server thread/INFO]: [Icheb: Set game difficulty to Peaceful]
+[20:48:18] [Server thread/INFO]: [Icheb: Set the time to 0]
+[21:02:06] [User Authenticator #3/INFO]: UUID of player UnknownNelson is 299b202f-81c9-40a7-ba2e-b6cbbffd7487
+[21:02:06] [Server thread/INFO]: UnknownNelson[/162.198.200.215:56838] logged in with entity id 409433 at (641.4927281479726, 78.0, 773.2108126275083)
+[21:02:06] [Server thread/INFO]: UnknownNelson joined the game
+[21:03:21] [Server thread/INFO]: [UnknownNelson: Teleported UnknownNelson to Icheb]
+[21:05:00] [Server thread/INFO]: [Icheb: Toggled downfall]
+[21:05:13] [Server thread/INFO]: [UnknownNelson: Toggled downfall]
+[21:20:58] [Server thread/INFO]: [Icheb: Teleported Icheb to UnknownNelson]
+[21:22:29] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:22:59] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:26:16] [Server thread/INFO]: [Icheb: Teleported Icheb to UnknownNelson]
+[21:26:40] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:27:10] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:30:05] [Server thread/INFO]: [Icheb: Teleported Icheb to 607.5, 15.0, 751.5]
+[21:36:28] [Server thread/INFO]: [UnknownNelson: Teleported UnknownNelson to Icheb]
+[21:41:23] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:41:28] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:41:29] [Server thread/INFO]: UnknownNelson lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:41:29] [Server thread/INFO]: UnknownNelson left the game
+[21:41:50] [Server thread/INFO]: [Icheb: Toggled downfall]
+[21:41:55] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:42:47] [Server thread/INFO]: [Icheb: Set the time to 0]
+[21:44:02] [Server thread/INFO]: [Icheb: Teleported Icheb to 607.5, 15.0, 751.5]
+[21:45:04] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:45:27] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:46:15] [Server thread/INFO]: [Icheb: Teleported Icheb to 607.5, 15.0, 751.5]
+[21:46:45] [Server thread/INFO]: [Icheb: Teleported Icheb to 637.5, 78.0, 789.5]
+[21:46:50] [Server thread/INFO]: [Icheb: Toggled downfall]
+[21:51:26] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:52:53] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:53:38] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:54:01] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[21:54:25] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[21:54:33] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[22:02:17] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[22:02:34] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[22:05:00] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[22:05:11] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[22:13:17] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[22:13:57] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[22:19:55] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[22:20:13] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[22:23:15] [Server thread/INFO]: [Icheb: Set own game mode to Spectator Mode]
+[22:23:45] [Server thread/INFO]: [Icheb: Set own game mode to Survival Mode]
+[22:37:25] [Server thread/INFO]: [Icheb: Toggled downfall]
+[22:37:26] [Server thread/INFO]: Icheb lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:37:26] [Server thread/INFO]: Icheb left the game
+[22:37:39] [Server Shutdown Thread/INFO]: Stopping server
+[22:37:39] [Server Shutdown Thread/INFO]: Saving players
+[22:37:39] [Server Shutdown Thread/INFO]: Saving worlds
